@@ -1,6 +1,1 @@
-121213
-casesoft
-wuxi to xiamen
-learn git
-submit5
-submit6
+it's just a new guy who is learning sth with git,please dont waste your time on it 
